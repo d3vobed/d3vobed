@@ -1,7 +1,6 @@
-#The Creative ones always have imaginations no one understands!
+#include <iostream>
 
-#include <stdio.h>    
-int main(){    
-printf("Hello" /n "Good bye");    
-return 0;   
-} 
+int main() {
+    std::cout << "The goal is to learn more than you know" << std::endl;
+    return 0;
+}
